@@ -40,6 +40,7 @@ Captions: 1–2 words at a time, bold uppercase, white with a black outline, pri
 
 ## How to make an AI dropshipping video: step by step
 
+0. **Break down a reel that already sells** (optional, 5 min): one `video_analyze` call on varg (~5 credits) returns every shot with its time, the on-screen text and the structure; or make a 1-frame-per-second contact sheet with FFmpeg and a Whisper transcript. Steps: [breakdown.md](https://github.com/vargHQ/skills/blob/main/varg-product-hook/references/breakdown.md) · [How to remake a reference video with AI](https://varg.ai/how-to/remake-a-reference-video).
 1. **Write the script** (140–160 words) from the [template](https://github.com/vargHQ/skills/blob/main/varg-dropship-reel/references/script.md). Put in the real cost and sell price you will show on screen. No income promises.
 2. **Make the hook.** 2 clips of 5–6 s on Seedance 2.5 with the product photo as the reference (`@image1`). Pick an archetype that already sells: backyard camera, torture test, problem → solution, satisfying close-up, gift reaction, before/after. Prompts: [varg-product-hook](https://github.com/vargHQ/skills/tree/main/varg-product-hook) · [How to write video hooks that sell products](https://varg.ai/how-to/write-video-hooks-that-sell).
 3. **Make one desk photo** with a laptop whose screen is flat chroma green (GPT Image 2.5, once, reuse it forever).
