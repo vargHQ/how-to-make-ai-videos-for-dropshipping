@@ -124,7 +124,7 @@ More: [How to burn captions into a video with FFmpeg](https://varg.ai/how-to/bur
 
 **How many videos should I test per product?** Several hooks per product: [How to make video ad variants for testing with AI](https://varg.ai/how-to/make-video-ad-variants-for-testing).
 
-More answers: [How to make ecommerce videos: 25 hard questions answered](https://varg.ai/how-to/ecommerce-video-questions).
+More answers: [How to make ecommerce videos: 25 hard questions answered](https://varg.ai/how-to/ecommerce-video-questions/).
 
 ## Install the skill (Claude Code, Codex, Cursor, Grok, OpenClaw)
 
