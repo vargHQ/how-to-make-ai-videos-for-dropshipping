@@ -17,7 +17,7 @@ Every video below was made end to end with AI from one supplier-style product ph
 
 | Product | Hook | Video |
 |---|---|---|
-| Solar security flood light | Backyard security camera at night, the light blasts a thief | [![Solar security light AI dropshipping video](examples/solar-security-light.jpg)](https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_f6dc05463eca.mp4) |
+| Solar security flood light | Backyard security camera at night, the light blasts a thief; the AI ads are made on varg.ai | [![Solar security light AI dropshipping video](examples/solar-security-light.jpg)](https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_d45406f8d0db.mp4) |
 | Cut-resistant gloves | Torture test: a chef's knife across the glove, a mandoline | [![Cut-resistant gloves AI dropshipping video](examples/cut-resistant-gloves.jpg)](https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_631fb721a315.mp4) |
 | Heated neck massager | Gift reaction: dad opens it on Father's Day | [![Heated neck massager AI dropshipping video](examples/heated-neck-massager.jpg)](https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_3c77d15fbf7e.mp4) |
 | LED pet nail clipper | Satisfying close-up: the LED lights up the claw | [![LED pet nail clipper AI dropshipping video](examples/led-pet-nail-clipper.jpg)](https://s3.varg.ai/files/194b94d0-58ff-4e8b-91de-4f1959d04013/file_782920d92e94.mp4) |
