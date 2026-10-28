@@ -25,6 +25,8 @@ Every video below was made end to end with AI from one supplier-style product ph
 
 The products, the people, the stores and the research tool on screen are all generated or fictional. Swap in your own.
 
+More formats that sell (ASMR unboxing, singing mascot, try-on, 20 hook variants, localization, compliance check): [ecommerce-ai-video-skills](https://github.com/vargHQ/ecommerce-ai-video-skills).
+
 ## The format, second by second
 
 The dropshipping "guide reel" that @tradelle and its affiliates post every day: one template, a new product each time.
@@ -159,6 +161,7 @@ Then sign in to varg once: the agent uses the varg MCP server (`https://mcp.varg
 - [How to add voiceover and music to a video with AI](https://varg.ai/how-to/add-voiceover-and-music-to-a-video)
 - [Skill: Turn a product into a dropshipping guide reel](https://varg.ai/how-to/skills/varg-dropship-reel)
 - [Skill: Turn product photos into a viral product hook](https://varg.ai/how-to/skills/varg-product-hook)
+- [Ecommerce AI video skills: 10 formats that sell, with prompts and costs](https://github.com/vargHQ/ecommerce-ai-video-skills)
 
 No GPU and no editing skills needed: run the whole pipeline on varg. Start free at [varg.ai/how-to/make-viral-ecommerce-videos](https://varg.ai/how-to/make-viral-ecommerce-videos).
 
