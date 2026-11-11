@@ -59,15 +59,17 @@ Full instructions with every prompt and command: [varg-dropship-reel SKILL.md](h
 
 | Shot | Model | Credits on varg | USD |
 |---|---|---|---|
-| Hook clip, 6 s, 720p | Seedance 2.5 (image reference) | 231 | $2.31 |
-| Laptop shot, 5 s, 720p | Kling 4 (image to video) | 79 | $0.79 |
-| Desk photo, screenshot frame, packshot | GPT Image 2.5 | 22 | $0.22 |
-| Night skyline, 6 s (once, reused) | Wan 3 | 60 | $0.60 |
-| Voiceover, 60 s | ElevenLabs v4 | 8 | $0.08 |
-| Music bed, 30 s (problem/solution ad) | Mureka 9.5 | 23 | $0.23 |
+| Hook clip, 6 s, 720p | [Seedance 2.5](https://varg.ai/models/seedance_2_5) (image reference) | 231 | $2.31 |
+| Laptop shot, 5 s, 720p | [Kling 4](https://varg.ai/models/kling_v4) (image to video) | 79 | $0.79 |
+| Desk photo, screenshot frame, packshot | [GPT Image 2.5](https://varg.ai/models/gpt_image_2_5) | 22 | $0.22 |
+| Night skyline, 6 s (once, reused) | [Wan 3](https://varg.ai/models/wan_3) | 60 | $0.60 |
+| Voiceover, 60 s | [ElevenLabs v4](https://varg.ai/models/eleven_v4) | 8 | $0.08 |
+| Music bed, 30 s (problem/solution ad) | [Mureka 9.5](https://varg.ai/models/mureka_9_5) | 23 | $0.23 |
 | **First reel / every next product** | | **~1,250 / ~860** | **~$12.50 / ~$8.60** |
 
 Next products cost less because the desk photo, the skyline and 4 of the 9 laptop shots are reused. Filming the laptop shots yourself brings a reel down to about $4.70.
+
+Every model has a page with its price rule, its parameters and a call to copy: [varg.ai/models](https://varg.ai/models).
 
 ## Best AI video tools for dropshipping in 2026, compared
 
